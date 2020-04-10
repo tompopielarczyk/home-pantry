@@ -1,0 +1,22 @@
+.product {
+	border: 1px solid #bfbfbf;
+	box-shadow: 0px 5px 5px -5px rgba(0, 0, 0, 0.5);
+	padding: 10px 15px;
+	margin: 15px;
+	width: 200px;
+
+	h3 {
+		margin: 0px;
+	}
+
+	button {
+		border: 1px solid #bfbfbf;
+		background-color: #ffffff;
+		padding: 8px 10px;
+		margin-right: 10px;
+	}
+
+	.missing {
+		color: red;
+	}
+}
